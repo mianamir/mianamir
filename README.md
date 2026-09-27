@@ -1,4 +1,4 @@
-### Hi, I'm Amir 👋
+### Hi, I am Muhammad 👋
 
 **Senior Python & AI Engineer in Hamburg.** Nearly 10 years taking software from idea to production — backend, data platforms, cloud — building with LLMs since 2022.
 
